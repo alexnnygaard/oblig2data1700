@@ -1,4 +1,4 @@
-package com.example.kinobilletteroblig2;
+package data1700oblig2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
